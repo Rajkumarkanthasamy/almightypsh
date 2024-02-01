@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/almightypsh/static/css/main.f0139a6f.css",
+    "main.js": "/almightypsh/static/js/main.20a32afb.js",
+    "static/js/787.66e6d8ec.chunk.js": "/almightypsh/static/js/787.66e6d8ec.chunk.js",
+    "static/media/logo.svg": "/almightypsh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/almightypsh/index.html",
+    "main.f0139a6f.css.map": "/almightypsh/static/css/main.f0139a6f.css.map",
+    "main.20a32afb.js.map": "/almightypsh/static/js/main.20a32afb.js.map",
+    "787.66e6d8ec.chunk.js.map": "/almightypsh/static/js/787.66e6d8ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0139a6f.css",
+    "static/js/main.20a32afb.js"
+  ]
+}

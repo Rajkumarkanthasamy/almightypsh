@@ -1,0 +1,12 @@
+.animationText{
+    position: relative;
+    animation-name: Arrow;
+    animation-duration: 2s;
+    animation-iteration-count:infinite;
+    animation-timing-function:ease-in-out;
+  }
+  
+  @keyframes Arrow {
+    from {top: 5px;}
+    to {bottom: 5px;}
+  }
